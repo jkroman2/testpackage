@@ -1,10 +1,10 @@
-from testpackage import sum_array
-from testpackage import fibonacci
-from testpackage import factorial
-from testpackage import reverse
-from testpackage import bubble_sort
-from testpackage import quick_sort
-from testpackage import merge_sort
+from . import sum_array
+from . import fibonacci
+from . import factorial
+from . import reverse
+from . import bubble_sort
+from . import quick_sort
+from . import merge_sort
 
 
 def sum_array(array):

@@ -2,4 +2,4 @@ mypackage.egg-info
 mypackage/__pycache__
 .ipynb_checkpoints
 installer.ipynb
-tests/test.py
+tests/*.py
