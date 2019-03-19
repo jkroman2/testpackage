@@ -1,2 +1,2 @@
-from . import recursion
-from . import sorting
+from testpackage import recursion
+from testpackage import sorting
